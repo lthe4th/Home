@@ -1,0 +1,12 @@
+label, p {
+	display: inline-block ;
+}
+
+label {
+	font-weight: bold
+}
+
+img {
+	width: 100px;
+	height: auto;
+}
